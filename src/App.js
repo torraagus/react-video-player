@@ -1,4 +1,4 @@
-import React from "react";
+iimport React from "react";
 import ReactPlayer from "react-player";
 import "./App.css";
 
@@ -7,7 +7,7 @@ function App() {
 		<div className="App">
 			<ReactPlayer
 				controls
-				width="900px"
+				width="800px"
 				height="500px"
 				url="https://www.youtube.com/watch?v=n2-w5v5LI2s"
 			/>
